@@ -19,8 +19,8 @@
 ## 🛠 Languages and Tools
 <br>
 <p align="center">
-<a href="https://www.python.org/" title="Python"><img src="https://www.freepik.com/icon/python_5968350#fromView=search&page=1&position=2&uuid=11ebf4cf-8871-4363-a095-5a50c05efaa4" alt="Python"  width="50" height="50"></a>
-<a href="https://www.sqlservertutorial.net/" title="SQL"><img src="https://icons-for-free.com/iff/png/256/database+filetype+hosting+programming+sql+icon-1320195390858969612.png" alt="SQL" width="50" height="50"></a>
+<a href="https://www.python.org/" title="Python"><img src="https://cdn.iconscout.com/icon/free/png-512/free-python-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-5-pack-logos-icons-2945099.png?f=webp&w=512" alt="Python"  width="50" height="50"></a>
+<a href="https://www.sqlservertutorial.net/" title="SQL"><img src="https://thumbs.dreamstime.com/z/sql-vector-icon-isolated-white-background-outline-thin-line-website-design-mobile-app-development-illustration-189445429.jpg?w=768" alt="SQL" width="50" height="50"></a>
 <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" title="POWERBI"><img src="https://images.datacamp.com/image/upload/v1724169856/image_ff55d03003.png" alt="POWERBI" width="50" height="50"></a>
 <a href="https://www.tableau.com/products/trial" title="TABLEAU"><img src="https://analyticstraininghub.com/wp-content/uploads/2020/10/icon-tableau.png" alt="TABLEAU" width="50" height="50"></a>
 </p>
