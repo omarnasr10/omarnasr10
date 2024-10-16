@@ -20,12 +20,9 @@
 <br>
 <p align="center">
 <a href="https://www.python.org/" title="Python"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"></a>
-<a href="https://www.sqlservertutorial.net/" title="SQL"><img src="https://images.app.goo.gl/E8MqjVYkDFhCArYXA" alt="SQL"></a>
-<a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" title="POWERBI"><img src="https://images.app.goo.gl/U9BELyXS6cDaQggq6" alt="POWERPI"></a>
-<a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
-<a href="https://flutter.dev" title="Flutter"><img src="https://img.shields.io/badge/flutter-%231572B6.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"></a>
-	<a href="https://www.w3.org/Style/CSS/" title="CSS3"><img src="https://img.shields.io/badge/css3-%23157122B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>
-<a href="https://dart.dev" title="Dart"><img src="https://img.shields.io/badge/dart-%231572B6.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"></a>
+<a href="https://www.sqlservertutorial.net/" title="SQL"><img src="" alt="SQL"></a>
+<a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" title="POWERBI"><img src="" alt="POWERBI"></a>
+<a href="https://www.tableau.com/products/trial" title="TABLEAU"><img src="" alt="TABLEAU"></a>
 </p>
 
 
