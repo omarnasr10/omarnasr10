@@ -19,7 +19,7 @@
 ## 🛠 Languages and Tools
 <br>
 <p align="center">
-<a href="https://www.python.org/" title="Python"><img src="https://logowik.com/content/uploads/images/python4089.logowik.com.webp" alt="Python"  width="50" height="50" style="border-radius: 10px;></a>
+<a href="https://www.python.org/" title="Python"><img src="https://logowik.com/content/uploads/images/python4089.logowik.com.webp" alt="Python"  width="50" height="50" style="border-radius:10px;"></a>
 <a href="https://www.sqlservertutorial.net/" title="SQL"><img src="https://thumbs.dreamstime.com/z/sql-vector-icon-isolated-white-background-outline-thin-line-website-design-mobile-app-development-illustration-189445429.jpg?w=768" alt="SQL" width="50" height="50"></a>
 <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" title="POWERBI"><img src="https://images.datacamp.com/image/upload/v1724169856/image_ff55d03003.png" alt="POWERBI" width="50" height="50"></a>
 <a href="https://www.tableau.com/products/trial" title="TABLEAU"><img src="https://analyticstraininghub.com/wp-content/uploads/2020/10/icon-tableau.png" alt="TABLEAU" width="50" height="50"></a>
