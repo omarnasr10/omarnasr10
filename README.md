@@ -22,7 +22,7 @@
 <a href="https://www.python.org/" title="Python"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"></a>
 <a href="https://www.sqlservertutorial.net/" title="SQL"><img src="" alt="SQL"></a>
 <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" title="POWERBI"><img src="" alt="POWERBI"></a>
-<a href="https://www.tableau.com/products/trial" title="TABLEAU"><img src="https://analyticstraininghub.com/wp-content/uploads/2020/10/icon-tableau.png" alt="TABLEAU" width="100" height="40"></a>
+<a href="https://www.tableau.com/products/trial" title="TABLEAU"><img src="https://analyticstraininghub.com/wp-content/uploads/2020/10/icon-tableau.png" alt="TABLEAU" width="60" height="60"></a>
 </p>
 
 
