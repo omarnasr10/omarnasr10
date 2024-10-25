@@ -5,7 +5,7 @@
 
 - :school: I'm A Student In Faculty Of Computers And Information SCU.
 - 🌱 I’m currently studying `SQL` , `PYTHON` and `PowerBI`
-- 📫 How to reach me **omarn7181@gmail.com**
+
 
 <br>
 
